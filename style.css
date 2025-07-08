@@ -1,8 +1,12 @@
 body {
- background-color: #f0f0f0;
+ background-color: #ffffff;
  font-family: Arial, sans-serif;
  text-align: center;
 }
 h1 {
- color: darkblue;
+ color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(133, 189, 136);
+   font-size: 1.2em;
 }
